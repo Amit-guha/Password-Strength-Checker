@@ -3,6 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/bg_active_background.xml" value="0.1365" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/bg_background_failer.xml" value="0.1365" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/bg_background_success.xml" value="0.1365" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/bg_otp_box.xml" value="0.1365" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/border.xml" value="0.1365" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/custom_button.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/custom_button_confrom.xml" value="0.1365" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/custom_input.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/custom_toggle_button.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/ic_baseline_email.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/ic_baseline_local_phone.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/ic_baseline_lock_.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/ic_baseline_remove_red_eye.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/drawable/ic_baseline_visibility_off.xml" value="0.1575" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/layout/activity_button.xml" value="0.17255434782608695" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.17255434782608695" />
+        <entry key="..\:/AndriodProject/MyApplication-20220321T064604Z-001/MyApplication/app/src/main/res/layout/activity_otp_acitivity.xml" value="0.17255434782608695" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

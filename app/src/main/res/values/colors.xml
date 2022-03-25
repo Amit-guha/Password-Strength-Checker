@@ -14,4 +14,6 @@
     <color name="medium">#ff8f00</color>
     <color name="strong">#FCCA3F</color>
     <color name="bulletproof">#00c853</color>
+    <color name="backbutton_color">#00C806</color>
+    <color name="graydark">#7A7A7A</color>
 </resources>
